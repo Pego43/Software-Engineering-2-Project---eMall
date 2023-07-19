@@ -14,3 +14,5 @@ To have a complete view of the project, consider the  files into eMall-Documents
 - RASD_2.pdf 
 - DD2.pdf
 
+### Project Pipeline
+For visualize other details of our project, consider the files and folders into eMall-Delivery-Folders folder.
